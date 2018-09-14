@@ -1,0 +1,8 @@
+{
+  "name": "EziTutor",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "f1763f12"
+}
